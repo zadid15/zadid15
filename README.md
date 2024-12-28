@@ -2,7 +2,7 @@
 
 # Hi 👋! I'm Zadid
 
-I am a front-end web developer currently studying at Vocational High School TI Pelita Nusantara, majoring in Software Engineering. I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. I enjoy exploring new ideas and technologies. Let's connect!
+I am a junior full-stack web developer currently studying at Vocational High School TI Pelita Nusantara, majoring in Software Engineering. I have a huge passion for technology and enjoy working with both front-end and back-end technologies. I am always eager to stay updated on the latest trends in the industry and love exploring new ideas and solutions. Let’s connect!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_instagram_handle) 
