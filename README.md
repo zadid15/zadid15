@@ -12,7 +12,6 @@ I am a front-end web developer currently studying at Vocational High School TI P
 - **Frontend Development:** HTML, CSS, JavaScript, Bootstrap
 - **Tools and Design:** Visual Studio Code, Git, GitHub
 
-## 🐍 Snake Animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zadid15/zadid15/blob/main/github-contribution-grid-snake-dark.svg" />
