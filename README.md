@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadid15&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Hi 👋! I'm Zadid
+# Hi there👋! I'm Zadid
 
 I am a junior full-stack web developer currently studying at Vocational High School TI Pelita Nusantara, majoring in Software Engineering. I have a huge passion for technology and enjoy working with both front-end and back-end technologies. I am always eager to stay updated on the latest trends in the industry and love exploring new ideas and solutions. Let’s connect!
 
