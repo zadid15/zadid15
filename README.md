@@ -2,7 +2,7 @@
 
 # Hi there👋! I'm Zadid
 
-I am a student currently studying at Vocational High School TI Pelita Nusantara, majoring in Software Engineering. I have a huge passion for technology and enjoy working with both front-end and back-end technologies. I am always eager to stay updated on the latest trends in the industry and love exploring new ideas and solutions. Let’s connect!
+I have a strong passion for technology and enjoy working with both front-end and back-end technologies. Always eager to stay updated on the latest industry trends, I love exploring new ideas and innovative solutions. Let’s connect!
 
 <div align="center">
   <picture>
