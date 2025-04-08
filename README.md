@@ -13,11 +13,6 @@ I have a strong passion for technology and enjoy working with both front-end and
 <h2 align="center">🚀 Tech Stacks</h2>
 
 <p align="center">
-  <!-- Custom Go Framework Icons -->
-  <img src="https://raw.githubusercontent.com/gofiber/website/main/static/img/logo.svg" height="40" title="Fiber" />
-  <img src="https://avatars.githubusercontent.com/u/61280934?s=200&v=4" height="40" title="Echo" />
-
-  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=go,typescript,react,nodejs,mysql,firebase,tailwind,docker&perline=7" />
 </p>
 
