@@ -13,7 +13,7 @@ I have a strong passion for technology and enjoy working with both front-end and
 <h2 align="center">🚀 Tech Stacks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,typescript,react,nodejs,express,mysql,firebase,tailwind,docker,figma,git,java&perline=7" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,react,nextjs,nodejs,express,mysql,mongodb,firebase,tailwind,docker,figma,git,java&perline=7" />
 </p>
 
 <br>
