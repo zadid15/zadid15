@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <h5>Tech Stacks</h5>
+  <h3>Tech Stacks</h3>
 </div>
 
 <p align="center">
@@ -11,5 +11,3 @@
     <img src="https://skillicons.dev/icons?i=go,laravel,ts,react,tailwind,docker,postgresql,git&perline=4" />
   </a>
 </p>
-
----
