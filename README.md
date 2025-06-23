@@ -1,7 +1,5 @@
 ![Muhammad Zadid](img/github-header2.png)
 
----
-
 <div align="center">
   <h3>Tech Stacks</h3>
 </div>
