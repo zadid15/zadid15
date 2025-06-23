@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <h3>Tech Stacks</h3>
+  <h2>Tech Stacks</h2>
 </div>
 
 <p align="center">
